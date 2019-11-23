@@ -1,0 +1,2 @@
+model_checkpoint_path: "XOM_1d.h5f"
+all_model_checkpoint_paths: "XOM_1d.h5f"
